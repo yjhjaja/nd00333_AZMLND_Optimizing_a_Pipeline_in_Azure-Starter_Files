@@ -62,4 +62,4 @@ The Scikit-learn Pipeline yields an accuracy of 0.9094440, thus the AutoML run y
 ## Proof of cluster clean up
 Deleted manually, shown below.
 
-<img title="a title" alt="Alt text" src="screencapture-ml-azure-compute-list-training-2024-04-06-02_16_05.png">
+<img title="proof_of_deletion" alt="Alt text" src="screencapture-ml-azure-compute-list-training-2024-04-06-02_16_05.png">
